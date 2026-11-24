@@ -14,7 +14,7 @@ Maintained by Pablo ([@fluyeporlaweb](https://x.com/fluyeporlaweb)).
 
 - **[mcp-x-intelligence](https://github.com/fluyeporlaweb/mcp-x-intelligence)** — X/Twitter research MCP for Claude, Cursor, Windsurf and any MCP-compatible AI agent.
 - **[awesome-design-stack](https://github.com/fluyeporlaweb/awesome-design-stack)** — Curated web design resources for people who ship: UI inspiration, design systems, agent skills, component libraries and tools. English and Spanish.
-- **agent-tools** — Open-source tools for AI agents: MCP servers, skills and scripts. Coming soon.
+- **ai-agent-tools** — Open-source tools for AI agents: MCP servers, skills and scripts. Coming soon.
 
 ## Sponsor
 
