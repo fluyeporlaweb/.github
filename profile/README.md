@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fluyeporlaweb.png" width="128" alt="fluyeporlaweb">
+  <img src="logo.png" width="128" alt="fluyeporlaweb">
 </p>
 
 <h1 align="center">fluyeporlaweb</h1>
