@@ -30,6 +30,9 @@
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://github.com/fluyeporlaweb/prospectforge">
+        <img src="prospectforge.png" width="96" alt="prospectforge logo">
+      </a>
       <h3><a href="https://github.com/fluyeporlaweb/prospectforge">prospectforge</a></h3>
       <p>Open-source B2B lead pipeline: discover, qualify against your ICP, draft outreach. Dry-run by default. Never sends email.</p>
       <p>
